@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "eventName": "Ganesh Visarjan 2024",
+    "location": "Mumbai",
+    "crowdCount": 1200,
+    "threshold": 1000,
+    "alert": true
+  },
+  {
+    "id": 2,
+    "eventName": "College Fest",
+    "location": "GL Bajaj",
+    "crowdCount": 200,
+    "threshold": 500,
+    "alert": false
+  }
+]
